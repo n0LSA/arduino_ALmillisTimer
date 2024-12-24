@@ -1,0 +1,24 @@
+{
+  "name": "arduino_ALmillisTimer",
+  "version": "0.0.1",
+  "license": "MIT",
+  "keywords": "Timing",
+  "description": "Class timer (based on millis())",
+  "homepage": "https://github.com/AdriLighting/",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/AdriLighting/arduino_ALmillisTimer.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Grellard Adrien",
+      "email": "grellard.adrien@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": "atmelavr, espressif8266",
+  "headers": "adri_timer.h"
+}
